@@ -42,7 +42,7 @@ int main() {
 		}
 	}
 
-	imwrite("IU_3.png", zoom_in);
+	imwrite("IU_3.0.png", zoom_in);
 	//imshow("zoom_in", zoom_in);
 	//waitKey(0);
 
