@@ -30,7 +30,7 @@ for frame in imgs:
 		(cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 30, 0.1))
 		
 		objpoints.append(objp)
-		imgpoints.append(corners2);
+		imgpoints.append(corners2)
 		#print("imgpoints is: ")
 		#print(corners)
 		#print("objpoints is: ")
